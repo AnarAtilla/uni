@@ -1,0 +1,159 @@
+    1  LS
+    2  CD..
+    3  cd
+    4  cat ~/ C/users/second/.ssh.id_rsa.pub.
+    5  cat ~/ c/users/second/.ssh.id_rsa.pub.
+    6  cat / c/users/second/.ssh.id_rsa.pub.
+    7  cat /users/second/.ssh.id_rsa.pub.
+    8  cat \Users\second/.ssh/id_rsa.pub.
+    9  cat ~ \Users\second/.ssh/id_rsa.pub.
+   10  cat .ssh/id_rsa.pub.
+   11  cat /.ssh/id_rsa.pub.
+   12  cat ~/.ssh/id_rsa.pub.
+   13  ls
+   14  ls /users
+   15  ls /Users
+   16  ls /c:
+   17  c:
+   18  vd
+   19  cd
+   20  dir
+   21  ls \Users\second\.ssh~
+   22  ls \Users\seconddir
+   23  ls
+   24  200~ssh ec2-user@linux.itcareerhub.de
+   25  ssh ec2-user@linux.itcareerhub.de
+   26  help
+   27  [200~scp username@remote_host:/path/to/example.txt /path/to/destination
+   28  dir
+   29  cd desktop
+   30  [200~
+   31  ssh ec2-user@linux.itcareerhub.de
+   32  ssh ec2-user@linux.itcareerhub.de
+   33  ssh ec2-user@linux.itcareerhub.de
+   34  ssh ec2-user@linux.itcareerhub.de
+   35  [200~ssh ec2-user@linux.itcareerhub.
+   36  $ ^[[200~ssh ec2-user@linux.itcareerhub.
+   37  ssh ec2-user@linux.itcareerhub.de
+   38  [200~find /opt -type f -name "*.txt"; locate os-release; for ((i = 1; i <= 10; i++)); do echo $i; done; for i in {1..10}; do echo $i; done
+   39  ssh ec2-user@linux.itcareerhub.de
+   40  vi /tmp/file.txt или nano /tmp/file.txt
+   41  clear
+   42  vi /tmp/file.txt
+   43  df -h /tmp/file.txt
+   44  clear
+   45  mkdir /tmp/file.txt
+   46  vi /tmp/file.txt
+   47  df -h /tmp/file.txt
+   48  chmod 770 /tmp/file.txt
+   49  chmod u+rwx,g+rw,o-rwx /tmp/file.txt
+   50  touch myfirstbashscript.sh /tmp
+   51  chmod +x /tmp/myfirstbashscript.sh
+   52  chmod +x myfirstbashscript.sh
+   53  USER=ANAR
+   54  vi myfirstbashscript.sh
+   55  vi myfirstbashscript.sh
+   56  ni myfirstbashscript.sh
+   57  nano myfirstbashscript.sh
+   58  cat myfirstbashscript.sh >> /tmp/file.txt
+   59  cat myfirstbashscript.sh >> /tmp/tmp/file.txt
+   60  cat myfirstbashscript.sh >> /tmp/file.txt
+   61  [200~cat myfirstbashscript.sh >> /tmp/file.txt
+   62  200~cat myfirstbashscript.sh >> /tmp/file.txt
+   63  export_file /tmp/file.txt
+   64  vi /tmp/file.txt
+   65  ssh ec2-user@linux.itcareerhub.de
+   66  #!/bin/bash
+   67  # Переменная с путем к директории для проверки
+   68  YULIIA_DIR="/opt/220424-ptm"
+   69  # Получаем список всех файлов в директории
+   70  FILE_LIST=$(ls -p "$YULIIA_DIR" | grep -v /)
+   71  # Перебираем каждый файл
+   72  for FILE in $FILE_LIST; do
+   73      if [[ "$FILE" == *.sh ]]; then
+   74          chmod +x "$YULIIA_DIR/$FILE";         echo "Добавлены права на исполнение для файла: $FILE";     fi; done
+   75  echo "Права на исполнение успешно добавлены для файлов .sh в директории $YULIIA_DIR."
+   76  d:
+   77  cd d:
+   78  dir
+   79  cd allgit
+   80  dir
+   81  cd git_init
+   82  git init
+   83  git add photo
+   84  git add pythonlogo
+   85  git add pythonlogo.jpg
+   86  git commit -m "pythonlogo"
+   87  git branch -M main
+   88  git remote add origin git@github.com:AtillaAnar/git_intro.git
+   89  git push -u
+   90  git push -u origin main
+   91  git remote add origin git@github.com:AnarAtilla/git_intro.git
+   92  git branch -M main
+   93  git push -u orign main
+   94  git remote -v
+   95  git push -u origin main
+   96  git pull origin main
+   97  git push origin main
+   98  git pull origin main
+   99  git pull origin main --allow-unrelated-histories
+  100  git pull origin main
+  101  git add.
+  102  git add .
+  103  git remote add origin git@github.com:AnarAtilla/git_intro.git
+  104  git add pythonlogo.jpg
+  105  git commit -m "pythonlogo"
+  106  git add <pythonlogo.jpg>
+  107  git add pythonlogo.jpg
+  108  git commit -m "pythonlogo"
+  109  git status
+  110  git log
+  111  git pull origin main
+  112  git add D:\allgit\git_init\pythonlogo.jpg
+  113  git add pythonlogo.jpg
+  114  git commit -m "pythonlogo.jpg pythonlogo.jpg"
+  115  git status
+  116  git log
+  117  git status
+  118  git logs
+  119  git log
+  120  git status
+  121  git add .
+  122  git push origin main
+  123  ssh ec2-user@linux.itcareerhub.de
+  124  ssh ec2-user@linux.itcareerhub.de
+  125  cd allgit
+  126  ls d:
+  127  cd d:
+  128  ls allgit
+  129  git init
+  130  cd allgit
+  131  git init
+  132  git clone git@github.com:AnarAtilla/dlya_dz12.git
+  133  ls dlya_dz12
+  134  cd dlya_dz12
+  135  git checkout -b feature
+  136  ls -all
+  137  .gitignore
+  138  .gitignore
+  139  cd
+  140  .gitignore
+  141  cd d:
+  142  .gitignore
+  143  cd allgit
+  144  .gitignore
+  145  .gitignore:
+  146  find . -name .gitignore
+  147  find . -name .gitignore
+  148  git clone git@github.com:AnarAtilla/dlya_dz12.git
+  149  dir
+  150  cd dlya_dz12
+  151  git init
+  152  git clone git@github.com:AnarAtilla/dlya_dz12.git
+  153  dir
+  154  nano dlya_dz12
+  155  find . -name .gitignore
+  156  git push origin feature
+  157  git commit --amend -m "Privet"
+  158  git merge feature
+  159  history > history.txt

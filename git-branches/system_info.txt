@@ -1,0 +1,13 @@
+Информация о системе:
+MINGW64_NT-10.0-19044 userone-pc 3.4.10-87d57229.x86_64 2024-02-14 20:17 UTC x86_64 Msys
+
+Информация о CPU:
+
+
+Информация о памяти:
+
+
+Информация о диске:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  237G  202G   35G  86% /
+D:                    210G  152G   59G  73% /d

@@ -1,0 +1,7 @@
+08cd79f M#erge branch 'branch2' izmenili
+048a0f6 WIP on main: 3da8c7e new_file_for_dz23
+1848678 index on main: 3da8c7e new_file_for_dz23
+d11db6c untracked files on main: 3da8c7e new_file_for_dz23
+26d0e67 new_file_for_dz23
+3da8c7e new_file_for_dz23
+8047a6c Initial commit
